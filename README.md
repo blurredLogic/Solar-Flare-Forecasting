@@ -1,4 +1,4 @@
-# Solar Flare Prediction
+# Solar Flare Forecasting Using Machine Learning on GOES X-ray Time-Series Data
 Using machine learning and data science, this project is using solar data obtained publicly from the NOAA, GOES-15 (satellite) multivariate time-series data, to predict the class of a solar flare as they happen on Sol. X-Ray Sensors (XRS) which are present on the GOES-15,  provides solar X-ray irradiances for the wavelength bands of 0.5 to 4 ˚A (short channel) and 1 to 8 ˚A (long channel).
 
 
